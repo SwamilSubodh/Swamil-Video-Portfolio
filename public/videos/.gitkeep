@@ -1,0 +1,9 @@
+# Place your video files here
+
+Add your video files to this folder:
+- project1.mp4
+- project2.mp4
+- project3.mp4
+- etc.
+
+The videos will be accessible at /videos/filename.mp4
