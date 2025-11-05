@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+# 🎬 Swamil | Video Editor Portfolio
 
-## Project info
+Welcome to my personal **Video Editing Portfolio Website** 🎥  
+I specialize in creating engaging **short-form and long-form video content** using industry-standard tools and creative storytelling.
 
-**URL**: https://lovable.dev/projects/fae7b087-80bc-415c-bcc4-7033ada54e1e
+---
 
-## How can I edit this code?
+## 💡 About Me
+I’m **Swamil**, a passionate **video editor** with over **1 million+ total views** across platforms.  
+From cinematic transitions to snappy short-form edits, I turn raw footage into captivating visual stories.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🧰 My Tools
+I craft every edit using:
+- 🎞️ **Adobe Premiere Pro**
+- 🎨 **After Effects**
+- 🔊 **DaVinci Resolve**
+- 🖥️ **CapCut Pro**
+- 💻 **Audacity** (for sound cleanup)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fae7b087-80bc-415c-bcc4-7033ada54e1e) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 What This Website Includes
+- A clean, modern portfolio built with **React + TypeScript + Tailwind CSS**
+- Responsive video gallery with autoplaying shortform and longform videos
+- Smooth animations, scroll effects, and contact section
+- Email integration (coming soon!)
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
+- ⚡ **Vite** — Lightning-fast dev environment  
+- 🧩 **React + TypeScript** — Modular and maintainable  
+- 🎨 **shadcn-ui + Tailwind CSS** — Beautiful UI components  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📬 Get in Touch
+Want to collaborate or hire me?  
+Reach out through the contact form on my site or connect on:
+- 📸 Instagram: [@taknikigyanz](https://instagram.com/taknikigyanz)
+- ✉️ Email: **swamilsubodh@gmail.com**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🌐 Live Portfolio
+Visit the live version: **[https://swamil-video-portfolio.vercel.app](https://swamil-video-portfolio.vercel.app)**  
+(Or host it yourself using Vercel or Netlify.)
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fae7b087-80bc-415c-bcc4-7033ada54e1e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🧾 License
+This project is open-source and free to modify for learning purposes.
